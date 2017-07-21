@@ -1,2 +1,2 @@
 #!/bin/bash
-packer build -only=virtualbox-iso -var-file=debian8.json debian.json
+packer build -only=virtualbox-iso -var-file=debian9.json debian.json
